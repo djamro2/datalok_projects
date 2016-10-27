@@ -1,0 +1,10 @@
+fuck: 762
+fucking: 277
+fucked: 13
+shit: 190
+bitch: 23
+dick: 20
+whore: 0
+cunt: 3
+twat: 1
+ump: 144

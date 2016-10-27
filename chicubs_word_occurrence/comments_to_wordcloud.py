@@ -7,10 +7,16 @@ import numpy as np
 # config stopwords
 stopwords = set(STOPWORDS)
 stopwords.add("really")
+stopwords.add("Trump")
+stopwords.add("TRUMPY")
+stopwords.add("Clinton")
+stopwords.add("CLINTON")
+stopwords.add("Holt")
+stopwords.add("HOLT")
 
 # Read the whole text.
 d = path.dirname(__file__)
-text = open(path.join(d, 'comments.txt')).read()
+text = open(path.join(d, 'transcript.txt')).read()
 
 # set up mask for Cubs background
 # cubs_mask = np.array(Image.open(path.join(d, "cubs_logo_colored.jpg")))
@@ -24,4 +30,4 @@ wc.generate(text)
 # wc.recolor(color_func=image_colors)
 
 # save to file
-wc.to_file(path.join(d, "comments.png"))
+wc.to_file(path.join(d, "transcript.png"))

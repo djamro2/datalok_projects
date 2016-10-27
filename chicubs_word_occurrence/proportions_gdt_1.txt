@@ -1,0 +1,11 @@
+Number of words: 39261
+fuck: 1.5308%
+fucking: 0.5604%
+fucked: 0.0382%
+shit: 0.4152%
+bitch: 0.056%
+dick: 0.0255%
+whore: 0.0%
+cunt: 0.0025%
+twat: 0.0%
+ump: 0.1095%
