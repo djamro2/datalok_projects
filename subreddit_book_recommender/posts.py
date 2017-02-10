@@ -29,6 +29,18 @@ class Posts:
 		else:
 			return []
 
+	def getPostsAndDelete(self, numPosts):
+		"""
+		Will get numPosts amount of posts from self.post
+		Removes these posts from the array and then will writeToFile
+		"""
+		if (len(self.posts) < numPosts):
+			numPosts = len(self.posts)
+		postsRetrieved = self.posts[:numPosts]
+		del self.posts[:numPosts]
+		self.writeToFile()
+		return postsRetrieved
+
 	def postsFileExists(self):
 		""" 
 		checks to see if a previous post file was made
@@ -41,5 +53,7 @@ class Posts:
 		to the list of posts
 		"""
 		with open(fname, 'w') as f:
-			for post in posts:
-				f.write(post + '\n')
+			for idx, post in enumerate(self.posts):
+				f.write(post)
+				if (idx != len(self.posts) - 1):
+					f.write('\n')

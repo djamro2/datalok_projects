@@ -7,8 +7,8 @@ from api_key import api_key_secret
 from posts import Posts
 
 subreddit_tag = 'webdev'
-start_time = calendar.timegm(time.strptime('02/01/2017', '%d/%m/%Y'))
-end_time = calendar.timegm(time.strptime('02/03/2017', '%d/%m/%Y'))
+start_time = calendar.timegm(time.strptime('01/07/2016', '%m/%d/%Y'))
+end_time = calendar.timegm(time.strptime('01/14/2016', '%m/%d/%Y'))
 
 # authenticate and create reddit instance
 reddit = praw.Reddit(client_id='AJL4NgyLiyBFPA',
