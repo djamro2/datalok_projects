@@ -1,0 +1,860 @@
+5t4drb: How to mimic Stripe's "About Us" page (team section)? A code snippets out there or interested freelancers?
+
+5t4b2k: Beginner to HTML and CSS
+
+5t46tf: Simple rich text editor in 90 lines of JS
+
+5t464d: Does anyone know who maintains www.redditedit.com? Basic error prevents some links from working.
+
+5t40wq: New Portfolio Site- Critique?
+
+5t3ykb: How to get full locale? get_locale() gives me a short one which is invalid
+
+5t3x4p: MongoDB projects on github
+
+5t3lik: How to change h1 color on hover within a div?
+
+5t3li0: Hit the strangest bug ever?
+
+5t3dfe: NodeJs Docker Environment for 2017
+
+5t3aks: I've been tasked with researching which CMS would be best for my company... What do I need to know?
+
+5t39th: Need help with developing subscription based web apps/mobile apps.
+
+5t37ec: Down Periscope!: A deep dive into PropTypes in React.
+
+5t367o: Need an advice: i'm thinking about leaving my current job
+
+5t33dc: I need an API that can give me keywords and details about them.
+
+5t2xjc: Critique my website?
+
+5t2ub9: What is your favorite tech stack to work with?
+
+5t2rsz: Why are all the newer frameworks shifting away from direct DOM manipulation?
+
+5t2pfb: Just another whine about what to do and where to learn
+
+5t2pf5: Fission: Serverless Functions as a Service for Kubernetes
+
+5t2nml: A simple way to check your local website on another device, without a vpn!
+
+5t2mvj: Help, jumpy table scrolling on IE and Firefox!
+
+5t2k6l: The Google API PHP client and getting events from a calendar.
+
+5t2guj: [question] Is there a service that lets me securely store CC information?
+
+5t2gt0: Material Design's Bottom Navigation with 1 Sass mixin
+
+5t2dq0: Practical scaling techniques for web sites
+
+5t25tl: How does Web hosting work as a freelancer?
+
+5t1y5g: Help me brush up on coding skills?
+
+5t1uwc: (Searched everywhere) Always have to use sudo to npm install, tried multiple fixes but nothing has changed, please help!
+
+5t1szi: Determining where a hit comes from
+
+5t1s1w: CMS with better admin panel?
+
+5t1ngt: I know HTML and CSS pretty well, what should I do next? And what is the best environment to develop in?
+
+5t1n7g: Monitor file changes in htdocs folder and database and send a text message if a change is detected.
+
+5t1m7q: AgileVentures.org is a registered charity and nonprofit that helps teams of developers get together online to form an Agile team and develop solutions for charities and nonprofits around the world.
+
+5t1eci: Chaning qualification fro PHP to .NET programmer.
+
+5t12ug: WTF is this chrome push notifications from websites coming from? How do you enable/disable it and how does one code up something for this on our own sites?
+
+5t0zq2: JavaScript Start-up Performance
+
+5t0ozq: How do I generate a CSR for my website hosted on Github Pages?
+
+5t0hy2: I am aiming to be a front end dev, but I love JS and don't know PS or Illustrator - am I mixed up?
+
+5t0dy1: I have a meeting with a law firm tomorrow. It will be my first client as a freelancer! What should I bring?
+
+5t0dqq: Inspiration for Search UI Effects
+
+5t0cgl: PSA: update your WP sites to 4.7.2 ASAP.
+
+5t09yp: Have any of you web developers on Mac gone back to Windows recently? How is it?
+
+5t08zb: Chrome sources/workspaces not working
+
+5t06ic: Building a Progressive Web App - part 2: RESTless search for a front-end framework
+
+5t06f1: Optimising the front end for the browser
+
+5t03lg: Make AJAX-Requests Great Again: Perform requests with the Fetch API and Async/Await (ES2017)
+
+5t02ak: Type Scale - A Visual Calculator
+
+5t01gk: The Next Big Blue-Collar Job Is Coding
+
+5szwdt: Should you create your own HTML tags?
+
+5szw5i: Women in Tech
+
+5szu01: Looking for Advice - Which Lang to Skill Up on.
+
+5szrli: Most of the web really sucks if you have a slow connection
+
+5szq1x: Google Developers Codelabs provide a guided, tutorial, hands-on coding experience.
+
+5szpml: Hosting Wordpress Server on an Android?
+
+5szndh: Could you recommend me some Google Chrome Apps?
+
+5szlh0: Common WYSIWYG HTML editor myths
+
+5szivs: Getting websockets to work on Elastic Beanstalk or Google App Engine is driving me nuts! Has anyone else gotten it to work??
+
+5szio2: PHP alternatives
+
+5szfv6: Dead simple Oauth microservice - login with facebook / twitter / google / reddit /github
+
+5szejv: WTF Is React Native?
+
+5sz7g2: A community site to help site owners migrate to HTTPS with a simple tested process
+
+5sz70q: Code Smells in CSS Revisited
+
+5sz22p: Career Advancement?
+
+5sz1uu: System for publishing articles
+
+5sz1nw: Stupid React and Angular ( struggle - why the hell I want to write in React but sometimes connecting stuff to DOM seems SO tempting )
+
+5sz0um: The top ten pull request review mistakes
+
+5syyq6: How would you implement slack-like reminders?
+
+5syxkx: One page web lightweight framework for porftolio
+
+5sywzk: Design on Adobe CC, code on Linux. How do you deal with this?
+
+5syt7k: A course this community may value - A clear roadmap to earning £45k as a self taught front end developer.
+
+5syr34: Critique my portfolio
+
+5syp5h: A simple searchable emoji cheat sheet. Find and easily copy the proper emoji code to your clipboard.
+
+5syl8v: The Google Analytics Setup I Use on Every Site I Build (by Philip Walton)
+
+5sy6ar: 300+ Hours of free bootcamp prep
+
+5sy4e7: You can live control robots here, we're working on a project where anybody can share their robot creations online with the world, looking for feedback and more robots :)
+
+5sxz2j: Closure am I right?
+
+5sxtht: Hey r/webdev! I have a fear of bombing a technical interview when a friend refers me. Is this irrational?
+
+5sxi9b: In all seriousness, what would be your up to date road map for learning JavaScript in 2017?
+
+5sxgel: Critique my portfolio :)
+
+5sxck6: Is there a webdev solution for determining a site's ad sponsors?
+
+5sxasc: Should I deploy my small project even though there are web apps that do it way better?
+
+5sx7k9: What type of information would you expect on a living style guide website for devs? Doing a bit of research for my team, if you have some time.
+
+5sx2p8: Beautifully designed charity support pages?
+
+5sx07q: would like to get feedback on this website ive been working, and help too.
+
+5swtjg: Switching Costs in Software Development
+
+5swcuo: Awesome Github Topics - Exploring Github's New Topics Feature ⭐
+
+5swbuk: Introducing DejaVue, a Vue visualization Chrome Devtool
+
+5swa4g: What do I need to do to become freelance?
+
+5sw8p0: How can I disable auto semi-colons in visual studio code?
+
+5sw3ru: I don't like CSS that much should I continue with Javasript
+
+5svtm1: "Bootstrap tour" a third party website
+
+5svp0i: Utilizing the "C" in CSS
+
+5svoc8: Help with form
+
+5svn6e: [x-post from r/javascript] Plain Cordova or PhoneGap to create simple hybrid app?
+
+5svl7l: Can someone find the conference that was made with all the guys that created js frameworks? I think i saw it somewhere on reddit but i lost it
+
+5svfwd: Making a Stats Website for Local Sport
+
+5svdxz: Free Web Development Courses from Udemy
+
+5sv6yh: What technology is typically used to allow a site owner to update their own content without directly modifying the code?
+
+5sv5lb: How to Predict Music You Love (LIVE)
+
+5sv5g7: What's your go to debug statement?
+
+5suzet: The open source fork of PrestaShop named thirty bees has released their second beta. It seems pretty fast and stable so far.
+
+5suzd9: animatelo - a bunch of cool, fun, and cross-browser animations for you to use in your projects. This is a porting to Web Animation API of the fabulous animate.css project
+
+5suvyc: Add <h> element
+
+5sutqo: How do I make my own website like this? Where I can select what case, dial, hands, etc on on the fly on the website. Hoping someone can tell me which languages are used. I'm guessing javascript and some more. I think it'll be a fun project to do.
+
+5suko9: How do you "demo" your progress to clients?
+
+5suesb: I'm on that in-between point.
+
+5sub6e: [Advice Request] Marketing myself during Interviews?
+
+5su5pf: Help an amateur about the business world of web dev&design.
+
+5su5eq: Caption, find the right subtitles. Easy.
+
+5su4oz: Is a PC good for Web Development?
+
+5stxid: Question about Freelancing
+
+5stx7k: Is there a SaaS company that offers a customizable client/customer portal?
+
+5stvgd: Seeking advice architecting authentication for my web api
+
+5stv7g: Why Selenium WebDriver is terrible
+
+5sttmx: Vectr's embedded editor plugin for WordPress
+
+5stqjh: Hi, I'm currently working on a website and was just looking for some general user feedback! Responses are much appreciated!
+
+5stpsj: Manage your Filters Like a Pro in Angular With combineLatest
+
+5sto89: Why VPS servers don't have unlimited bandwidth?
+
+5stntt: Whats the best way to merge multiple files (of different file types) into one PDF file? With PHP
+
+5stlbd: The many faces of on-the-fly face detection
+
+5stkos: Is there a way to get visitor IP's with Cloudflare and/or google analytics?
+
+5stjnh: Show Reddit: My first machine learning project to see pronounceability of a word
+
+5stdc8: A simple pie chart in SVG
+
+5stav1: Developer stories - Ashwin Nanjappa from Singapore 🇸🇬
+
+5st9l9: The funniest developer talk I've seen
+
+5st7o5: How to Setup Unified AWS ECS Logs in CloudWatch and SSM
+
+5st7aj: This is a demo of my web based Bomberman game
+
+5st66a: show tiles based on tags?
+
+5st412: Show Reddit: During the weekends, I built a super-small website with Python that shows a new book every time you visit! Feedbacks welcome!
+
+5st31x: Streaming video and camera
+
+5ssu1z: Help me to choose state in Canada to work temporarily and go to college after that.
+
+5ssrg9: Vue-ECharts – ECharts component for Vue.js
+
+5sso0h: GitHub - motion/pundle: Peaceful Bundles (pundles!) for everyone
+
+5ssihg: Which 2017 conferences / workshops do you recommend especially for backend developers?
+
+5sshbv: Simple WhitestormJS app with React
+
+5ssatx: Server timings in the Chrome Devtools
+
+5ss2ll: How To Sell E-Books With Popup Builde
+
+5srxdp: [JS] Is there a way to execute a function after the page finished rendering (not the first load)?
+
+5srvtq: Why Webpack 2's Tree Shaking is not as effective as you think
+
+5srs2f: Could I get some feedback on my portfolio?
+
+5sroj4: Whats the best way to inject my container builder into my controllers? (using PHP DI)
+
+5srmr1: Am I too late for the party?
+
+5srjnl: How are enterprise websites with 100k+ pages not god awfully slow
+
+5srizf: Writing Element Queries Today Using EQCSS
+
+5srf40: I work from home
+
+5sqtli: Can someone help me figure out what to Google or use to make something like this?
+
+5sqsy3: Ironic TeamTreeHouse ad in my Facebook feed...
+
+5sqset: When am I qualified enough to apply for a junior dev position?
+
+5sqpxj: Getting to Know and Love AWS Elastic Beanstalk Configuration Files (.ebextensions): How to use .ebextensions to configure the EB environment for your Rails App
+
+5sqmc8: I want to learn the LAMP stack
+
+5sql9j: I came across this spectacular site and i'm wondering if anyone has suggestions on how to make something similar
+
+5sqi4e: Untold Benefits of a Software Blog
+
+5sqgij: WAT
+
+5sqefk: Help request - need to host node and php on same site (trying with NearlyFreeSpeech)
+
+5sq90p: Need advice:domain owner is dead. How do I buy the domain?
+
+5sq71o: Could anyone tell me how to go about building something like this?
+
+5sq578: Looking to hire a developer
+
+5sq3gd: Need direction please re website / platform
+
+5sptzf: Is webdev a dying profession?
+
+5spqs4: How do you manage billing multiple customers yearly for hosting & upkeep?
+
+5spq42: What are some good open source projects for web developers?
+
+5spp9w: Has anyone tried Jade for emails? I've been testing it and I've had some great success so far.
+
+5spn7f: Looking for a way to preserve an overlay from a Chrome extension through page navigation
+
+5sp98n: What to call non-SPA web development?
+
+5sp26y: Write Clean JavaScript Code with Object Literal Pattern
+
+5soqai: Sandstorm Development Group has run out of money. Sandstorm will continue as an open-source project.
+
+5sokii: I suck at CSS - I need help with creating a 2 column layout with select tags... Any advice would be appreciated :)
+
+5sohz1: Where do you upload your icons and images to be linked later in your website?
+
+5sob8v: LCN selling 1 year hosting packages for a penny to celebrate their birthday
+
+5so9xr: Wanting to create a restful-API for fun, which server-side language would you recommend?
+
+5so7mv: A simple script for enabling declarative-style use of the google charts api
+
+5so6zr: Sorry if this has been asked before, but what is a good way to place a paginated feed like the old Engadget on my personal home page?
+
+5so6t3: Trying to find more agency-relevant JavaScript exercises/projects.
+
+5so693: Function client-side javascript router in 500 bytes gzip/zopfli + min
+
+5so4o6: Site5 has been bought out and are now terrible. If you are with them, move now!
+
+5so2w9: NodeJS MySQL pagination example for beginners with source code
+
+5so15u: Show /r/webdev: Trippr (my first Rails app)
+
+5so0i3: Display posts by most “liked” within the past 7 days
+
+5snvr4: Showing website at different screens
+
+5sntx3: Having a hard time finding a job. Not sure what to call myself, Full stack designer, Product designer, Digital designer, Interactive Designer?
+
+5snmdo: Want to learn about metadata for digital asset management / storage?
+
+5snkfa: I'm a bit of a dummy and know enough php to be dangerous. Need a reddit-esk platform for a private site.
+
+5snh5i: Question - Website that posts project ideas
+
+5sndyc: Whitestorm.js - Framework for 3D Games / Apps with ReactJS
+
+5sn7ke: Almost finished my Portfolio. Could You give me some feedback? Thanks!
+
+5sn3ng: How to create shapes and thumbnails of images using GD library in PHP
+
+5smpc7: Need help with project ideas! 4 developers + 1 month. What would you make that would look good in a resume?
+
+5sml5y: Exclude files from git without committing changes to .gitignore 🙅
+
+5smk8p: Introducing "fabricated" data breaches to "Have I been pwned"
+
+5smjxg: Looking for help with frame-by-frame sprite animation "jittering" problem (gif/mp4 examples inside).
+
+5smgcs: Typography for Developers
+
+5smarc: Migrating to WhitestormJS v2 beta. Module system – WhitestormJS Framework
+
+5sm6bt: A how and why primer on video transcoding: Webm to H.264 and more
+
+5sm278: Do you ever get really into building something random and just spend way too much time on it? I present Super Mario World, Yoshi's Island, Level 1.
+
+5slyh0: WhitestormJS 3D Framework for Three.js with ReactJS integration
+
+5slvtm: Fun with Console object
+
+5sliz5: What kind of programming is this web app & what kind of programmer do you guys recommend to help me complete similar app? Thank you
+
+5slhat: What do you guys think of Svelte so far?
+
+5slfn4: Vue.js Question
+
+5slf8v: Firebase review — 9 months in
+
+5slcwj: Where to start from?
+
+5sla2r: Picking an image size for for the front page/carousel of a website.
+
+5sl2vh: Semi-experienced (mainly PHP) web dev - which frameworks to move on to?
+
+5skmld: Looking for a Customisable self-hosted Social Network Platform, Hopefully with REST API, any one know of any?
+
+5skil8: Modern and functional UI router in ~600 bytes, built on HTML5 History API.
+
+5ske04: How do I go about form validation with Bootstrap when doing a POST request in Node from a HTML form?
+
+5sk94a: Facemappign
+
+5sk8lb: Phrase-match an entire directory?
+
+5sk71p: How can I program a gig list for my wedding band?
+
+5sk55d: Over the wire data for cached images.
+
+5sk4tc: GitLab long term plan to make it as fast as possible with Vue and Webpack
+
+5sk4a9: What tools are you using to build websites? - February 2017
+
+5sk0ar: Choice of presentation layer (UI) framework for Java (Spring) web apps.
+
+5sjz7m: Who builds large applications with NodeJS? Is learning Go or a so called "real" language a better investment in time?
+
+5sjvq0: Need advice
+
+5sjro5: PHP for Beginners part 10, PHP floats
+
+5sjmab: Can you still make money fixing businesses websites?
+
+5sjjfx: I just had an interview for an internship but didn't get it as they wanted someone with 2 years of coding in a corporate situation...what the fuck
+
+5sjhr0: Twitter Widget Help
+
+5sjae7: WordPress Subdomain on Joomla Site
+
+5siwej: Pure CSS: Accessible Checkboxes and Radios Buttons
+
+5siv82: How should I display my freelance work on my resume/LinkedIn?
+
+5siv1g: CSS: What's the advantage of using IDs over classes?
+
+5siumh: Need opinions. Is "data viz" just another fade ?
+
+5sitp4: Did anyone move on from web development to another software field? How is the transition?
+
+5sinys: Change the element by ID in the function
+
+5sinrr: What is the easiest way to set up a simple beta signup page?
+
+5simki: If I'm aspiring to be a front end developer, should I put time into learning some backend?
+
+5sibtq: How to include SVG sprite-sheet into simple, static HTML? Link it like css?
+
+5sib8s: Using Optimizely with React (client-side AB testing)
+
+5si708: Looking for tips for a junior developer moving to a new city
+
+5shsoa: Do you actually do continuous integration?
+
+5shq43: Looking for a Crawling Tool for indexing page copy
+
+5shiek: Exploiting CSGOJackpot's weak RNG [2015]
+
+5shf0m: Hacking games on SALE
+
+5shaln: Using images of celebrities of pinterest on a website?
+
+5sh0g8: Best practices for using a video as the header?
+
+5sgybi: Put together a quick site for changing text to upper/lowercase, replacing spaces etc. Might come in handy for some
+
+5sgxfb: Payment Platform For Customers to Use (Mobile and Web)
+
+5sgwwg: Simple introduction to Ionic
+
+5sgqxe: What's your opinion on JWTs?
+
+5sgqum: Is there a place for JS frameworks in my current/future workflow?
+
+5sgpuf: Hey guys fairly new to javascript and everyone says that u should know the basics of javascript than get into frameworks or libraries like jQuery. But how much are the basics? How do i know that i've grabbed the basics?
+
+5sglx8: Looking for opinion related with ecommerce choice
+
+5sglve: Persisting user authentication with Vuex in Vue
+
+5sglis: Exploring Unseen Open Source Infrastructure
+
+5sgjx5: What's in an AMP URL?
+
+5sgc9a: Thinking about taking the angular plunge
+
+5sga0g: Looking For Comprehensive Database Comparison/Explanation
+
+5sg3id: Front end coding challenges
+
+5sg2l5: Wordpress - Security pre-requisites and plugins
+
+5sfmxa: is there a site that will list all available domain names for a certain extention?
+
+5sfjg3: is it possible to use images of celebrities taken from google on your website?
+
+5sffqi: Subscribr, a tiny (600b) event subscriber.
+
+5sfaca: Just uploaded my first project!
+
+5sf9nq: Learning to design websites
+
+5sf3vk: Suggestions on how to achieve this effect?
+
+5sf1xp: Captain, a Docker menu bar app for Mac
+
+5sf0nf: Function to retrieve the margin of the body (located in an iFrame) blank..
+
+5sevnq: Open sourced oauth2 server as a service
+
+5settf: I made a browser bookmarklet to send ad-free articles & webpages to your email inbox for later reading.
+
+5seraq: Useful math classes
+
+5seqbg: If I'm interested in UI, UX, Full stack web development,is a (B,M,C) Information Systems major better suited for me instead of a CS degree?
+
+5semou: Looking for a website
+
+5sem7w: The Startuper’s Guide to the Integrations, Part 1
+
+5sem3q: .htaccess: How do I beautify my URL and remove the trailing backslash?
+
+5sedu2: Frontend widgets can steal your data
+
+5sed1i: Best choice for database driven website?
+
+5seanb: ELI5: 'Building' from the source files of your website.
+
+5se8u0: Automatic sprite and code generator.
+
+5se6dn: NPM Vet, a simple CLI tool for checking npm package versions
+
+5sdwyl: What makes a 10x programmer / software engineer?
+
+5sdwk4: How to find Node.js Performance Optimization Killers
+
+5sdr21: Really Cool Tutorials on Node, React, Mongo, Flexbox, CSS Animations and more
+
+5sdosn: PHP For Beginners Part 9, Numbers in PHP
+
+5sdmuq: Incrementally moving your old server rendered app to React
+
+5sdmbf: Looking for a phrase/terminology, help please?
+
+5sdj8c: What is the best way to make your site responsive to PC, tablet and mobile?
+
+5sdbdt: [Opinion based][Practical question] OS choosing
+
+5sd4rb: TDD vs Feature Driven Development
+
+5sd227: My fight against CDN libraries
+
+5scvmd: System for handling deploy, VM init, getting latest DB, SSH commands to destination?
+
+5scuvw: Rails question
+
+5scmyh: Want to learn Javascript but really struggling
+
+5scd1h: [Advanced] How would you center this div?
+
+5sc7g6: Courses/Exercises similar to Javascript30?
+
+5sbxak: Site language based on IP or system settings?
+
+5sbehg: A guide to cross-browser testing: installing all the things
+
+5sb733: College Work Help
+
+5sb6wn: Best Python social auth library that supports django-rest-framework?
+
+5sb5ce: New. Looking for ideas
+
+5sazx0: asciimoo/wuzz: Interactive cli tool for HTTP inspection
+
+5saure: I want to host WordPress multisite for 10-20 sites on AWS, what size instance should I use?
+
+5saps3: Just published my first working website as a student developer. A snow calculator that implements machine learning to give accurate results fast.
+
+5sankp: Crazy Privacy Policy by using 'free' services
+
+5sam87: Does anyone care about Awwwards?
+
+5saduz: how much should I charge for a website?
+
+5sa73w: Programming Slack Group | All Levels | C#, JS (Node [ES6], ReactJS, VueJS), PHP, Ruby on Rails etc.
+
+5sa4z8: Recommendation for iPhone and android debugging and testing on windows
+
+5sa0l8: Redirect loop installing Joomla 3.6.x on new Bluehost server
+
+5s9ygb: Increased readability with CSS custom variables
+
+5s9pny: Development of Microservices - Problems and Solutions
+
+5s9b8u: Test local .html on iPhone?
+
+5s97lf: A practical introduction to TypeScript for PHP developers
+
+5s94yl: Annoying </h1> appears after my cursor and before my target text immediately after I type <h1>.
+
+5s9408: Front End - CSS, Media queries etc questions
+
+5s8zqi: Do front-end web developers build websites in WordPress where no coding is required?
+
+5s8vrj: Need advice on how to host my portfolio website
+
+5s8hy2: Step by step guide on installing UnCSS and grunt?
+
+5s8hdt: Google has changed the interface and some specifics about Google Places
+
+5s8f09: When starting a new project what does your planning process look like?
+
+5s8eeo: I need some cool ideas to continue learning Javascript in a best way - coding myself!
+
+5s8d82: Can anyone recommend good tutorials for the Ratpack framework ?
+
+5s858m: E2E & Stress Testing using Protractor
+
+5s7v6r: Is there a better way of creating this mega-menu?
+
+5s7sdq: What are easy-to-learn frameworks for students who have never programmed before?
+
+5s7j0q: Presented with great trepidation: Why every javascript framework is terrible
+
+5s7eht: What's a Software / SaaS that you regularly use but don't feel you know how to utilize 100% ?
+
+5s6wei: Building a Morphing Hamburger Menu with CSS
+
+5s6bvi: PHP for beginners part 8, string functions in PHP
+
+5s5pgo: Windows vs. Dual Boot Windows/Linux vs Linux VM in Windows
+
+5s5o2q: Attempting to develop a category-based search engine
+
+5s5kqn: I'm quitting my fast food job to pursue webdev and starting with freelance work. Thoughts and advice wanted
+
+5s5hdl: Using Postman Environment Variables & Auth Tokens
+
+5s5fdc: Adding Form Data to Google Docs
+
+5s5di1: Center a webpage and fit the screen
+
+5s584x: Get your Google Analytics insights right into Slack
+
+5s5631: I want to start a business and have a ton of questions for anyone willing to help.
+
+5s5607: When you're looking at candidates for hire, does having an award on a site like CSSWinner make a difference?
+
+5s505n: 7 year programmer... not sure where to start
+
+5s4al6: They tell you web dev is hard but they never prepare you for this
+
+5s453v: I'm building a website for someone, but I don't want the responsibility of hosting it
+
+5s42zi: Page reloads every time I zoom in using iOS device anyone have a fix for this?
+
+5s3ud3: Our findings for creating good API developer docs discovered when we created ours.
+
+5s3266: Idea for my master thesis in webdev
+
+5s2vqc: [Looking For Feedback] Hello Reddit, That's My First Writing Piece about Web Hosting, Give Me Some Feedback Please !
+
+5s2dsz: Are the skills we learn transferrable?
+
+5s2biy: I created a website to hold my cover letter for a job application. Glitch waves appear as the mouse moves.
+
+5s28qr: What's the back end of websites nowadays?
+
+5s26hz: How NOT to demonstrate your payment gateway
+
+5s246f: AWS, Firebase, suggestions for school project
+
+5s1x8v: I made a website to create GIFs from Youtube Videos
+
+5s1tx3: Windows based web application framework
+
+5s1st5: I made a little CLI tool to compare performance metrics of two (or more) websites
+
+5s1opc: Is VueJS ready to be used in a large-scale application?
+
+5s1hcy: Do I need an EV SSL cert or can I get away with a standard one?
+
+5s1f66: Editing existing css file with LiveStyle
+
+5s1ex0: Google created an XSS game to teach you how to exploit and prevent them (x-post from /r/php)
+
+5s1cg7: Mobile specific sub domain?
+
+5s18tr: What to charge for Wordpress Site with Cherry and Motopress?
+
+5s0smn: Audio links and color changes for HTML 5 Canvas
+
+5s0rza: What is your battlestation setup?
+
+5s0f21: [ASPNET] I am stupid. Please tell me how to deploy large app without the servers having to JIT it.
+
+5s0awo: PHP for beginners Part 7, Variables and String in php
+
+5s0ad2: I have a similar issue to airbnb login form for iOS devices
+
+5s08d3: What does your daily work environment looks like?
+
+5s04co: Which homepage for MariaDB is real?
+
+5rzrcq: A static site generator for PHP developers, created by me. I'd like some feedback and criticism.
+
+5rzlqk: Do I want to host a Node.js app?
+
+5rzgit: How do you do smooth horizontal scrolling when swiping/dragging without displaying a visible horizontal scrollbar?
+
+5rzff1: In what ways can web apps benefit from machine learning?
+
+5rz6l2: Need some help after hosting a new domain
+
+5ryrk4: What's your favourite Web Development Related YouTube Channel?
+
+5ryk2z: (Question) How would you answer this in a job interview?
+
+5ryikp: Any experienced web application developers mind providing advice on developing & outsourcing a billing platform for my customers? Frameworks to use, ways to improve my idea, etc.
+
+5ry2gn: How would I go about making a website similar to this one?
+
+5ry16u: Junior dev jobs asking for too much?
+
+5rxxkr: A simple command-line interface for web applications
+
+5rxx4w: Why is "for(i=0; i<10; i*2)" an infinite loop?
+
+5rxdrz: Why are there so few Rails jobs nowadays?
+
+5rx6k0: Can anyone suggest a service for contact forms?
+
+5rx6ez: Question regarding github vs portfolio as a beginner looking for a job
+
+5rx29c: Needed a faster way to add fonts to my CSS and Android Strings. So I made MagicSauce.
+
+5rx1iq: Looking to get into testing. How do I test classes from other files? (x-post from r/learnprogramming)
+
+5rwxor: Should I take a front end job as my first if I want to work in back end?
+
+5rwrmd: Has anyone here been to a Code For America meetup? I would like to know what your experience was
+
+5rwlnq: Is express.js a complete back end framework like Rails is?
+
+5rwkm2: A list of project ideas as provided by /r/webdev users
+
+5rw5os: Built my first CSS grid system using Flexbox. Would like your input.
+
+5rw3yk: Can you suggest the best training to help a git newbie understand this git repo and how to work with it? The red blob on the far left is our production branch.
+
+5rw172: New Interaction Behaviors in iOS 10
+
+5rw0xy: Fun Web Animation Effects with KUTE.js
+
+5rw0is: SMIL: Should I use it, or nah?
+
+5rvus1: After every auto update in WebHost Manager, pure-ftpd.conf resets the LimitRecursion back to default. I want it at 100,000. Any ideas why?
+
+5rvpm3: php PDO and jQuery AJAX tutorial with example source code
+
+5rvf6s: Accidentally changed permissions of everything on iMac. How to fix?
+
+5rv5gh: Django losing popularity compare to RoR?
+
+5rv5fz: React Native at WalmartLabs – WalmartLabs
+
+5rv1js: What hosing service would you recommend for a small node + sql hobby project?
+
+5rv0k3: What framework/systems I should use?
+
+5rv03a: Need a bit of guidance on building website
+
+5ruz7c: What invoicing tool do you use?
+
+5rux7a: A better way to move site code from PC to PC?
+
+5ruvef: "We really don't need to upgrade that package right now.."
+
+5ruuld: SaaS Database Design: Single Database vs Single Schema vs Shared Schema
+
+5rusid: MediaSwipe - A Real Image Gallery (just finished!)
+
+5ruocx: Live in Houston. Getting laid off next week. I want to switch careers to web dev.
+
+5rumma: PHP for beginners Part 6, PHP comments
+
+5rukww: Help with running a shell command from a browser ?
+
+5ruj9c: Mailgun vs. Self hosting Postfix
+
+5rudb6: Can I configure Angular-CLI/TypeScript module resolve paths?
+
+5ruajz: Problem sifting out data with null values
+
+5ru7w4: A good course on learning React with Rails
+
+5ru0dw: [Long] Some 'holistic'/lifestyle questions about becoming a web developer. Almost 30 without much of a career, hoping to turn my life around.
+
+5rtz1d: Summary of My Meeting with Google AMP Team after “Google may be stealing your mobile traffic” post
+
+5rtvw9: Recursion in Angular Components
+
+5rtu51: How does Sylius compare to WooCommerce, Prestashop, Shopify or Magento?
+
+5rtn26: Looking for easy to edit multi-site CMS for clients
+
+5rth0d: Styled-Components: Enforcing Best Practices In Component-Based Systems
+
+5rt8r4: Can anyone give me an example of when I should add languages like react and backbone to my site?
+
+5rt3el: How do I approach a developer?
+
+5rszqf: Making the switch from shared hosting to VPS - any advice appreciated
+
+5rsza7: Migrating a PHP 5 App to PHP 7 (Development Environment)
+
+5rswzk: Does node and php go together?
+
+5rss3t: SSL Reselling - Recommendations?
+
+5rsp87: What Is A Landing Page And Why You Need This?
+
+5rsdx1: Anyone using Kubernetes, Mesos or Swarm in production?
+
+5rsdog: problem with <a href>
+
+5rscqs: Continuous Integration: A War Story
+
+5rsckq: Our company needs a new website and has received a proposal of €10 000 for a craftcms website (full rundown in description) Is this a normal price?
+
+5rs7kq: Laravel or Ruby on Rails?
+
+5rs745: Opera Neon, the modern browser with amazing features
+
+5rs41w: React Router + NPM: can't figure out why the image isn't showing up... Any help would be great! thanks :)
+
+5rrtck: What's the best client-side code highlighter as a replacement for prettify?
+
+5rrleg: Help with a codepen
+
+5rrhe5: Porting to a Desktop App
+
+5rrgbc: Fix VSCode Background Blocking Color?
+
+5rrdum: Is it uncommon to get ongoing freelance work from agencies?
+
+5rr7kv: Is there a solution to quick on the spot TOA that updates as soon as the client agrees?
+

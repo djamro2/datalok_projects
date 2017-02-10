@@ -1,0 +1,8 @@
+
+# api key for subreddit recommender
+subreddit_book_recommender/api_key.py
+
+# pycache
+subreddit_book_recommender/__pycache__
+subreddit_book_recommender/__pycache__/
+subreddit_book_recommender/__pycache__/*
