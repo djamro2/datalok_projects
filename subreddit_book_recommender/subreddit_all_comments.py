@@ -5,6 +5,13 @@ import calendar
 import json
 import time
 import math
+import signal
+
+stop_loops = False
+
+def sigint_handler(signum, frame):
+	stops_loops = True
+signal.signal(signal.SIGINT, sigint_handler)
 
 def findTotalLoopsRequired(startTime, endTime, num_days_per_loop):
 	diff = endTime - startTime
@@ -20,6 +27,12 @@ def addComments(reddit, posts, output, filename):
 	num_posts = len(posts.keys())
 
 	for idx, postId in enumerate(posts.keys()):
+		if (stop_loops):
+			print('exiting')
+			writeToFile(posts, output)
+			output.close()
+			break
+
 		print('On post {0} out of {1}.'.format(idx+1, num_posts))
 		if (posts[postId]['comments'] and len(posts[postId]['comments']) > 0):
 			print('Skipping this post, already done')
@@ -57,20 +70,23 @@ def addPosts(subreddit, startTime, endTime, posts, output, filename, num_days=2)
 	total_loops_required = findTotalLoopsRequired(startTimeLoop, endTime, num_days)
 
 	while(startTimeLoop < endTime):
+		if (stop_loops):
+			print('exiting')
+			writeToFile(posts, output)
+			output.close()
 		print('On loop {0} out of {1} in adding posts'.format(loopNum, total_loops_required))
-		for submission in subreddit.submissions(startTimeLoop, endTimeLoop):
-			posts[submission.id] = {}
-			posts[submission.id]['created'] = submission.created
-			posts[submission.id]['comments'] = []
-		writeToFile(posts, output)
-		startTimeLoop = endTimeLoop
-		endTimeLoop  = min([endTimeLoop + getDaysInSeconds(num_days), endTime])
-		loopNum += 1
-		print(endTimeLoop)
+		try:
+			for submission in subreddit.submissions(startTimeLoop, endTimeLoop):
+				posts[submission.id] = {}
+				posts[submission.id]['created'] = submission.created
+				posts[submission.id]['comments'] = []
+			writeToFile(posts, output)
+			startTimeLoop = endTimeLoop
+			endTimeLoop  = min([endTimeLoop + getDaysInSeconds(num_days), endTime])
+			loopNum += 1
+		except Exception as error:
+			print('Recieved an error, trying again next loop')
 
-		# TEMP
-		if (loopNum > 2):
-			break
 
 	# return the final posts dict in case this is needed
 	return posts
@@ -167,7 +183,3 @@ def scrape(subreddit, startTime, reddit, endTime=None, filename=None, foldername
 
 	# close the output file
 	output.close()
-
-
-
-

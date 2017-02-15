@@ -1,8 +1,6 @@
 
-# api key for subreddit recommender
+# subreddit book recommender
 subreddit_book_recommender/api_key.py
-
-# pycache
-subreddit_book_recommender/__pycache__
 subreddit_book_recommender/__pycache__/
-subreddit_book_recommender/__pycache__/*
+subreddit_book_recommender/out/
+subreddit_book_recommender/amazon_comments.txt
